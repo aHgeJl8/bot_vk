@@ -98,6 +98,6 @@ def vk_bot(token, group_id):
             )
 
 if __name__ == "__main__":
-    GROUP_ID = '229899982'
-    TOKEN = 'vk1.a.B8syLSdGNoenTEg5MydclnHmi2K3p8-7vIOSbu577vMSYa5ltpxF67Zddm7eHOm4RLOGDmuygUTkiNb3KZVImwbpRVMkFron1Bstx67gea_lDlFLd0W_H1V44rm439rX4JRHU1M_cj9UKkr4H9AVPqPGGo64toOscDn0j7ud7LhHKirgXvUUP2ZC_61Ka8DiWT7HtoxctNG-yHw9mxwHzg'
+    GROUP_ID = ''
+    TOKEN = ''
     vk_bot(TOKEN, GROUP_ID)
